@@ -1,0 +1,1 @@
+Simulação de consulta de produto até o carrinho usando Selenium WebDriver, com validações de nome e preço. Inclui versões com JUnit puro e BDD com Cucumber e Page Object // Projeto final do curso Iterasys.
